@@ -1,0 +1,6 @@
+{
+  "name": "TWICE AS MUCH — Bespoke Tailoring & Luxury Prêt-à-Porter",
+  "description": "Official digital maison for TWICE AS MUCH. Bespoke made-to-measure tailoring with interactive 2D avatar measurement studio and ready-to-wear luxury collections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
